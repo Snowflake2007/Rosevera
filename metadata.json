@@ -1,0 +1,6 @@
+{
+  "name": "Rosevera Moisturizer — Botanical Skincare",
+  "description": "An interactive, cinematic 3D scrollytelling luxury skincare showcase featuring Rosevera botanical moisturizer, exploded-view formulation, and research journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
