@@ -92,7 +92,3 @@ This repository is pre-configured with `vercel.json` and `.npmrc`:
 ```
 
 ---
-
-## 📄 License
-
-MIT License — Feel free to use and adapt this project for your own creative showcases!
